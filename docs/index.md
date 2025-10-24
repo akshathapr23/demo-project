@@ -1,1 +1,1 @@
-# welcome to my proj
+updated proj details and instructions
